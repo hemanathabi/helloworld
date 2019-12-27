@@ -14,5 +14,5 @@ class tinyVGG:
       input_shape = (depth, height, width)
       channel_dim = 1
 	  
-print('done')
+print('donuie')
 	
